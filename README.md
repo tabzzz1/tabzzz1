@@ -22,7 +22,7 @@
 --- 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/refs/heads/main/VSCode/VSCode.png" alt="123" style="zoom: 35%;" />
+<img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/refs/heads/main/VSCode/VSCode.png" alt="123" style="zoom: 20%;" />
 </p>
 
 --- 
